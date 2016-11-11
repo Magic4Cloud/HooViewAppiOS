@@ -1,0 +1,539 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6E31E06D1DD564B5009E137A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06C1DD564B5009E137A /* main.m */; };
+		6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06F1DD564B5009E137A /* AppDelegate.m */; };
+		6E31E0731DD564B5009E137A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E0721DD564B5009E137A /* ViewController.m */; };
+		6E31E0761DD564B5009E137A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0741DD564B5009E137A /* Main.storyboard */; };
+		6E31E0781DD564B5009E137A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0771DD564B5009E137A /* Assets.xcassets */; };
+		6E31E07B1DD564B5009E137A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0791DD564B5009E137A /* LaunchScreen.storyboard */; };
+		6E31E0861DD564B5009E137A /* HooViewAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E0851DD564B5009E137A /* HooViewAppTests.m */; };
+		6E31E0911DD564B5009E137A /* HooViewAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E0901DD564B5009E137A /* HooViewAppUITests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6E31E0821DD564B5009E137A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6E31E0601DD564B5009E137A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E31E0671DD564B5009E137A;
+			remoteInfo = HooViewApp;
+		};
+		6E31E08D1DD564B5009E137A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6E31E0601DD564B5009E137A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E31E0671DD564B5009E137A;
+			remoteInfo = HooViewApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6E31E0681DD564B5009E137A /* HooViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HooViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E06C1DD564B5009E137A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6E31E06E1DD564B5009E137A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6E31E06F1DD564B5009E137A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6E31E0711DD564B5009E137A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6E31E0721DD564B5009E137A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6E31E0751DD564B5009E137A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6E31E0771DD564B5009E137A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6E31E07A1DD564B5009E137A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6E31E07C1DD564B5009E137A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HooViewAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E0851DD564B5009E137A /* HooViewAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HooViewAppTests.m; sourceTree = "<group>"; };
+		6E31E0871DD564B5009E137A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HooViewAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E0901DD564B5009E137A /* HooViewAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HooViewAppUITests.m; sourceTree = "<group>"; };
+		6E31E0921DD564B5009E137A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6E31E0651DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07E1DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E0891DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6E31E05F1DD564B5009E137A = {
+			isa = PBXGroup;
+			children = (
+				6E31E06A1DD564B5009E137A /* HooViewApp */,
+				6E31E0841DD564B5009E137A /* HooViewAppTests */,
+				6E31E08F1DD564B5009E137A /* HooViewAppUITests */,
+				6E31E0691DD564B5009E137A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6E31E0691DD564B5009E137A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0681DD564B5009E137A /* HooViewApp.app */,
+				6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */,
+				6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6E31E06A1DD564B5009E137A /* HooViewApp */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E06E1DD564B5009E137A /* AppDelegate.h */,
+				6E31E06F1DD564B5009E137A /* AppDelegate.m */,
+				6E31E0711DD564B5009E137A /* ViewController.h */,
+				6E31E0721DD564B5009E137A /* ViewController.m */,
+				6E31E0741DD564B5009E137A /* Main.storyboard */,
+				6E31E0771DD564B5009E137A /* Assets.xcassets */,
+				6E31E0791DD564B5009E137A /* LaunchScreen.storyboard */,
+				6E31E07C1DD564B5009E137A /* Info.plist */,
+				6E31E06B1DD564B5009E137A /* Supporting Files */,
+			);
+			path = HooViewApp;
+			sourceTree = "<group>";
+		};
+		6E31E06B1DD564B5009E137A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E06C1DD564B5009E137A /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6E31E0841DD564B5009E137A /* HooViewAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0851DD564B5009E137A /* HooViewAppTests.m */,
+				6E31E0871DD564B5009E137A /* Info.plist */,
+			);
+			path = HooViewAppTests;
+			sourceTree = "<group>";
+		};
+		6E31E08F1DD564B5009E137A /* HooViewAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0901DD564B5009E137A /* HooViewAppUITests.m */,
+				6E31E0921DD564B5009E137A /* Info.plist */,
+			);
+			path = HooViewAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6E31E0671DD564B5009E137A /* HooViewApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E0951DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewApp" */;
+			buildPhases = (
+				6E31E0641DD564B5009E137A /* Sources */,
+				6E31E0651DD564B5009E137A /* Frameworks */,
+				6E31E0661DD564B5009E137A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HooViewApp;
+			productName = HooViewApp;
+			productReference = 6E31E0681DD564B5009E137A /* HooViewApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6E31E0801DD564B5009E137A /* HooViewAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E0981DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppTests" */;
+			buildPhases = (
+				6E31E07D1DD564B5009E137A /* Sources */,
+				6E31E07E1DD564B5009E137A /* Frameworks */,
+				6E31E07F1DD564B5009E137A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6E31E0831DD564B5009E137A /* PBXTargetDependency */,
+			);
+			name = HooViewAppTests;
+			productName = HooViewAppTests;
+			productReference = 6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6E31E08B1DD564B5009E137A /* HooViewAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E09B1DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppUITests" */;
+			buildPhases = (
+				6E31E0881DD564B5009E137A /* Sources */,
+				6E31E0891DD564B5009E137A /* Frameworks */,
+				6E31E08A1DD564B5009E137A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6E31E08E1DD564B5009E137A /* PBXTargetDependency */,
+			);
+			name = HooViewAppUITests;
+			productName = HooViewAppUITests;
+			productReference = 6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6E31E0601DD564B5009E137A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = Ananwu;
+				TargetAttributes = {
+					6E31E0671DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = UGJ4QZYMFY;
+						ProvisioningStyle = Automatic;
+					};
+					6E31E0801DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = UGJ4QZYMFY;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6E31E0671DD564B5009E137A;
+					};
+					6E31E08B1DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = UGJ4QZYMFY;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6E31E0671DD564B5009E137A;
+					};
+				};
+			};
+			buildConfigurationList = 6E31E0631DD564B5009E137A /* Build configuration list for PBXProject "HooViewApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6E31E05F1DD564B5009E137A;
+			productRefGroup = 6E31E0691DD564B5009E137A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6E31E0671DD564B5009E137A /* HooViewApp */,
+				6E31E0801DD564B5009E137A /* HooViewAppTests */,
+				6E31E08B1DD564B5009E137A /* HooViewAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6E31E0661DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E07B1DD564B5009E137A /* LaunchScreen.storyboard in Resources */,
+				6E31E0781DD564B5009E137A /* Assets.xcassets in Resources */,
+				6E31E0761DD564B5009E137A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07F1DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E08A1DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6E31E0641DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E0731DD564B5009E137A /* ViewController.m in Sources */,
+				6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */,
+				6E31E06D1DD564B5009E137A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07D1DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E0861DD564B5009E137A /* HooViewAppTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E0881DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E0911DD564B5009E137A /* HooViewAppUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6E31E0831DD564B5009E137A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6E31E0671DD564B5009E137A /* HooViewApp */;
+			targetProxy = 6E31E0821DD564B5009E137A /* PBXContainerItemProxy */;
+		};
+		6E31E08E1DD564B5009E137A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6E31E0671DD564B5009E137A /* HooViewApp */;
+			targetProxy = 6E31E08D1DD564B5009E137A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6E31E0741DD564B5009E137A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E31E0751DD564B5009E137A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6E31E0791DD564B5009E137A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6E31E07A1DD564B5009E137A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6E31E0931DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6E31E0941DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6E31E0961DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		6E31E0971DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		6E31E0991DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp";
+			};
+			name = Debug;
+		};
+		6E31E09A1DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp";
+			};
+			name = Release;
+		};
+		6E31E09C1DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HooViewApp;
+			};
+			name = Debug;
+		};
+		6E31E09D1DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HooViewApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6E31E0631DD564B5009E137A /* Build configuration list for PBXProject "HooViewApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0931DD564B5009E137A /* Debug */,
+				6E31E0941DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E31E0951DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0961DD564B5009E137A /* Debug */,
+				6E31E0971DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6E31E0981DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0991DD564B5009E137A /* Debug */,
+				6E31E09A1DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		6E31E09B1DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E09C1DD564B5009E137A /* Debug */,
+				6E31E09D1DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6E31E0601DD564B5009E137A /* Project object */;
+}
