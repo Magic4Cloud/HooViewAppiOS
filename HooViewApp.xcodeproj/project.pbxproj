@@ -615,15 +615,12 @@
 				DEVELOPMENT_TEAM = 8YE8AXL3F3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/HooViewApp/Libs/QQSDK",
 					"$(PROJECT_DIR)/Libs/QQSDK",
 				);
 				INFOPLIST_FILE = HooViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK",
-					"$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK",
 					"$(PROJECT_DIR)/Libs/WeChatSDK",
 					"$(PROJECT_DIR)/Libs/WeiBoSDK",
 				);
@@ -642,15 +639,12 @@
 				DEVELOPMENT_TEAM = 8YE8AXL3F3;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/HooViewApp/Libs/QQSDK",
 					"$(PROJECT_DIR)/Libs/QQSDK",
 				);
 				INFOPLIST_FILE = HooViewApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK",
-					"$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK",
 					"$(PROJECT_DIR)/Libs/WeChatSDK",
 					"$(PROJECT_DIR)/Libs/WeiBoSDK",
 				);
