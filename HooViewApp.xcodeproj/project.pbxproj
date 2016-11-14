@@ -1,1564 +1,755 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>archiveVersion</key>
-	<string>1</string>
-	<key>classes</key>
-	<dict/>
-	<key>objectVersion</key>
-	<string>46</string>
-	<key>objects</key>
-	<dict>
-		<key>4E99AF5AB110364C9D93D85B</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Copy Pods Resources</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp-resources.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E05F1DD564B5009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E06A1DD564B5009E137A</string>
-				<string>6E31E0691DD564B5009E137A</string>
-				<string>6E31E09E1DD5A921009E137A</string>
-				<string>6E31E09F1DD5A939009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0601DD564B5009E137A</key>
-		<dict>
-			<key>attributes</key>
-			<dict>
-				<key>LastUpgradeCheck</key>
-				<string>0810</string>
-				<key>ORGANIZATIONNAME</key>
-				<string>Ananwu</string>
-				<key>TargetAttributes</key>
-				<dict>
-					<key>6E31E0671DD564B5009E137A</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>DevelopmentTeam</key>
-						<string>8YE8AXL3F3</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-					</dict>
-					<key>6E31E0801DD564B5009E137A</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>DevelopmentTeam</key>
-						<string>UGJ4QZYMFY</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>6E31E0671DD564B5009E137A</string>
-					</dict>
-					<key>6E31E08B1DD564B5009E137A</key>
-					<dict>
-						<key>CreatedOnToolsVersion</key>
-						<string>8.1</string>
-						<key>DevelopmentTeam</key>
-						<string>UGJ4QZYMFY</string>
-						<key>ProvisioningStyle</key>
-						<string>Automatic</string>
-						<key>TestTargetID</key>
-						<string>6E31E0671DD564B5009E137A</string>
-					</dict>
-				</dict>
-			</dict>
-			<key>buildConfigurationList</key>
-			<string>6E31E0631DD564B5009E137A</string>
-			<key>compatibilityVersion</key>
-			<string>Xcode 3.2</string>
-			<key>developmentRegion</key>
-			<string>English</string>
-			<key>hasScannedForEncodings</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXProject</string>
-			<key>knownRegions</key>
-			<array>
-				<string>en</string>
-				<string>Base</string>
-			</array>
-			<key>mainGroup</key>
-			<string>6E31E05F1DD564B5009E137A</string>
-			<key>productRefGroup</key>
-			<string>6E31E0691DD564B5009E137A</string>
-			<key>projectDirPath</key>
-			<string></string>
-			<key>projectReferences</key>
-			<array/>
-			<key>projectRoot</key>
-			<string></string>
-			<key>targets</key>
-			<array>
-				<string>6E31E0671DD564B5009E137A</string>
-				<string>6E31E0801DD564B5009E137A</string>
-				<string>6E31E08B1DD564B5009E137A</string>
-			</array>
-		</dict>
-		<key>6E31E0631DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>6E31E0931DD564B5009E137A</string>
-				<string>6E31E0941DD564B5009E137A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6E31E0641DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6E31E0DF1DD5B1D6009E137A</string>
-				<string>6E31E0701DD564B5009E137A</string>
-				<string>6E31E06D1DD564B5009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E0651DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6E31E0D61DD5B07E009E137A</string>
-				<string>6E31E0D71DD5B07E009E137A</string>
-				<string>6E31E0D51DD5B07E009E137A</string>
-				<string>8DA42A50BEF7F570E7D57F42</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E0661DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6E31E0A11DD5A983009E137A</string>
-				<string>6E31E0D81DD5B07E009E137A</string>
-				<string>6E31E0E91DD5B731009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E0671DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>6E31E0951DD564B5009E137A</string>
-			<key>buildPhases</key>
-			<array>
-				<string>93B3617AB7BCCEE493719E27</string>
-				<string>6E31E0641DD564B5009E137A</string>
-				<string>6E31E0651DD564B5009E137A</string>
-				<string>6E31E0661DD564B5009E137A</string>
-				<string>BBBBF39F1FD3DE0CFBCABE01</string>
-				<string>4E99AF5AB110364C9D93D85B</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>HooViewApp</string>
-			<key>productName</key>
-			<string>HooViewApp</string>
-			<key>productReference</key>
-			<string>6E31E0681DD564B5009E137A</string>
-			<key>productType</key>
-			<string>com.apple.product-type.application</string>
-		</dict>
-		<key>6E31E0681DD564B5009E137A</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.application</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>HooViewApp.app</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6E31E0691DD564B5009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0681DD564B5009E137A</string>
-				<string>6E31E0811DD564B5009E137A</string>
-				<string>6E31E08C1DD564B5009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Products</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E06A1DD564B5009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E06E1DD564B5009E137A</string>
-				<string>6E31E06F1DD564B5009E137A</string>
-				<string>6E31E0BD1DD5AE5F009E137A</string>
-				<string>6E31E0D91DD5B0E6009E137A</string>
-				<string>6E31E0DA1DD5B100009E137A</string>
-				<string>6E31E0DB1DD5B151009E137A</string>
-				<string>6E31E0DC1DD5B16C009E137A</string>
-				<string>6E31E0E01DD5B3F8009E137A</string>
-				<string>6E31E0E11DD5B419009E137A</string>
-				<string>6E31E0E21DD5B465009E137A</string>
-				<string>6E31E0BE1DD5B07E009E137A</string>
-				<string>6E31E0E31DD5B48B009E137A</string>
-				<string>6E31E06B1DD564B5009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>HooViewApp</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E06B1DD564B5009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E07C1DD564B5009E137A</string>
-				<string>6E31E06C1DD564B5009E137A</string>
-				<string>6E31E0A01DD5A983009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Supporting Files</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E06C1DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>main.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E06D1DD564B5009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E06C1DD564B5009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E06E1DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>AppDelegate.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E06F1DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>AppDelegate.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0701DD564B5009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E06F1DD564B5009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E07C1DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.plist.xml</string>
-			<key>path</key>
-			<string>Info.plist</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E07D1DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E07E1DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E07F1DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E0801DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>6E31E0981DD564B5009E137A</string>
-			<key>buildPhases</key>
-			<array>
-				<string>6E31E07D1DD564B5009E137A</string>
-				<string>6E31E07E1DD564B5009E137A</string>
-				<string>6E31E07F1DD564B5009E137A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>6E31E0831DD564B5009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>HooViewAppTests</string>
-			<key>productName</key>
-			<string>HooViewAppTests</string>
-			<key>productReference</key>
-			<string>6E31E0811DD564B5009E137A</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.unit-test</string>
-		</dict>
-		<key>6E31E0811DD564B5009E137A</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>HooViewAppTests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6E31E0821DD564B5009E137A</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>6E31E0601DD564B5009E137A</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>6E31E0671DD564B5009E137A</string>
-			<key>remoteInfo</key>
-			<string>HooViewApp</string>
-		</dict>
-		<key>6E31E0831DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>6E31E0671DD564B5009E137A</string>
-			<key>targetProxy</key>
-			<string>6E31E0821DD564B5009E137A</string>
-		</dict>
-		<key>6E31E0881DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E0891DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E08A1DD564B5009E137A</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>6E31E08B1DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>6E31E09B1DD564B5009E137A</string>
-			<key>buildPhases</key>
-			<array>
-				<string>6E31E0881DD564B5009E137A</string>
-				<string>6E31E0891DD564B5009E137A</string>
-				<string>6E31E08A1DD564B5009E137A</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>6E31E08E1DD564B5009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>HooViewAppUITests</string>
-			<key>productName</key>
-			<string>HooViewAppUITests</string>
-			<key>productReference</key>
-			<string>6E31E08C1DD564B5009E137A</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle.ui-testing</string>
-		</dict>
-		<key>6E31E08C1DD564B5009E137A</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>wrapper.cfbundle</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>HooViewAppUITests.xctest</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>6E31E08D1DD564B5009E137A</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>6E31E0601DD564B5009E137A</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>6E31E0671DD564B5009E137A</string>
-			<key>remoteInfo</key>
-			<string>HooViewApp</string>
-		</dict>
-		<key>6E31E08E1DD564B5009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>target</key>
-			<string>6E31E0671DD564B5009E137A</string>
-			<key>targetProxy</key>
-			<string>6E31E08D1DD564B5009E137A</string>
-		</dict>
-		<key>6E31E0931DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVES</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>ENABLE_TESTABILITY</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_DYNAMIC_NO_PIC</key>
-				<string>NO</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_OPTIMIZATION_LEVEL</key>
-				<string>0</string>
-				<key>GCC_PREPROCESSOR_DEFINITIONS</key>
-				<array>
-					<string>DEBUG=1</string>
-					<string>$(inherited)</string>
-				</array>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>ONLY_ACTIVE_ARCH</key>
-				<string>YES</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>6E31E0941DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>ALWAYS_SEARCH_USER_PATHS</key>
-				<string>NO</string>
-				<key>CLANG_ANALYZER_NONNULL</key>
-				<string>YES</string>
-				<key>CLANG_CXX_LANGUAGE_STANDARD</key>
-				<string>gnu++0x</string>
-				<key>CLANG_CXX_LIBRARY</key>
-				<string>libc++</string>
-				<key>CLANG_ENABLE_MODULES</key>
-				<string>YES</string>
-				<key>CLANG_ENABLE_OBJC_ARC</key>
-				<string>YES</string>
-				<key>CLANG_WARN_BOOL_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_CONSTANT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_DIRECT_OBJC_ISA_USAGE</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_DOCUMENTATION_COMMENTS</key>
-				<string>YES</string>
-				<key>CLANG_WARN_EMPTY_BODY</key>
-				<string>YES</string>
-				<key>CLANG_WARN_ENUM_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INFINITE_RECURSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_INT_CONVERSION</key>
-				<string>YES</string>
-				<key>CLANG_WARN_OBJC_ROOT_CLASS</key>
-				<string>YES_ERROR</string>
-				<key>CLANG_WARN_SUSPICIOUS_MOVES</key>
-				<string>YES</string>
-				<key>CLANG_WARN_UNREACHABLE_CODE</key>
-				<string>YES</string>
-				<key>CLANG_WARN__DUPLICATE_METHOD_MATCH</key>
-				<string>YES</string>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>COPY_PHASE_STRIP</key>
-				<string>NO</string>
-				<key>DEBUG_INFORMATION_FORMAT</key>
-				<string>dwarf-with-dsym</string>
-				<key>ENABLE_NS_ASSERTIONS</key>
-				<string>NO</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_C_LANGUAGE_STANDARD</key>
-				<string>gnu99</string>
-				<key>GCC_NO_COMMON_BLOCKS</key>
-				<string>YES</string>
-				<key>GCC_WARN_64_TO_32_BIT_CONVERSION</key>
-				<string>YES</string>
-				<key>GCC_WARN_ABOUT_RETURN_TYPE</key>
-				<string>YES_ERROR</string>
-				<key>GCC_WARN_UNDECLARED_SELECTOR</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNINITIALIZED_AUTOS</key>
-				<string>YES_AGGRESSIVE</string>
-				<key>GCC_WARN_UNUSED_FUNCTION</key>
-				<string>YES</string>
-				<key>GCC_WARN_UNUSED_VARIABLE</key>
-				<string>YES</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>10.1</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VALIDATE_PRODUCT</key>
-				<string>YES</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>6E31E0951DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>6E31E0961DD564B5009E137A</string>
-				<string>6E31E0971DD564B5009E137A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6E31E0961DD564B5009E137A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>9BF3F9612BDF5883ED83A701</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
-				<string>LaunchImage</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>8YE8AXL3F3</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/QQSDK</string>
-					<string>$(PROJECT_DIR)/Libs/QQSDK</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewApp/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>LIBRARY_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK</string>
-					<string>$(PROJECT_DIR)/Libs/WeChatSDK</string>
-					<string>$(PROJECT_DIR)/Libs/WeiBoSDK</string>
-				</array>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.app</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>6E31E0971DD564B5009E137A</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>9B3BA73F93955EB410DD4FC6</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ASSETCATALOG_COMPILER_APPICON_NAME</key>
-				<string>AppIcon</string>
-				<key>ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME</key>
-				<string>LaunchImage</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>8YE8AXL3F3</string>
-				<key>FRAMEWORK_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/QQSDK</string>
-					<string>$(PROJECT_DIR)/Libs/QQSDK</string>
-				</array>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewApp/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks</string>
-				<key>LIBRARY_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK</string>
-					<string>$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK</string>
-					<string>$(PROJECT_DIR)/Libs/WeChatSDK</string>
-					<string>$(PROJECT_DIR)/Libs/WeiBoSDK</string>
-				</array>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.app</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>6E31E0981DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>6E31E0991DD564B5009E137A</string>
-				<string>6E31E09A1DD564B5009E137A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6E31E0991DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>UGJ4QZYMFY</string>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewAppTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.HooViewAppTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>6E31E09A1DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>BUNDLE_LOADER</key>
-				<string>$(TEST_HOST)</string>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>UGJ4QZYMFY</string>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewAppTests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.HooViewAppTests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_HOST</key>
-				<string>$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>6E31E09B1DD564B5009E137A</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>6E31E09C1DD564B5009E137A</string>
-				<string>6E31E09D1DD564B5009E137A</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>6E31E09C1DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>UGJ4QZYMFY</string>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewAppUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.HooViewAppUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>HooViewApp</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>6E31E09D1DD564B5009E137A</key>
-		<dict>
-			<key>buildSettings</key>
-			<dict>
-				<key>DEVELOPMENT_TEAM</key>
-				<string>UGJ4QZYMFY</string>
-				<key>INFOPLIST_FILE</key>
-				<string>HooViewAppUITests/Info.plist</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<string>$(inherited) @executable_path/Frameworks @loader_path/Frameworks</string>
-				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>com.hooview.HooViewAppUITests</string>
-				<key>PRODUCT_NAME</key>
-				<string>$(TARGET_NAME)</string>
-				<key>TEST_TARGET_NAME</key>
-				<string>HooViewApp</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>6E31E09E1DD5A921009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>D38CCB0B17967BBC817F74C8</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Frameworks</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E09F1DD5A939009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>9BF3F9612BDF5883ED83A701</string>
-				<string>9B3BA73F93955EB410DD4FC6</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pods</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0A01DD5A983009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text</string>
-			<key>path</key>
-			<string>CodeStyle.txt</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0A11DD5A983009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0A01DD5A983009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0BD1DD5AE5F009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Core</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0BE1DD5B07E009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0BF1DD5B07E009E137A</string>
-				<string>6E31E0C01DD5B07E009E137A</string>
-				<string>6E31E0C21DD5B07E009E137A</string>
-				<string>6E31E0C71DD5B07E009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Libs</string>
-			<key>sourceTree</key>
-			<string>SOURCE_ROOT</string>
-		</dict>
-		<key>6E31E0BF1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>3rdLibHeader.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C01DD5B07E009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0C11DD5B07E009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>QQSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C11DD5B07E009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.framework</string>
-			<key>path</key>
-			<string>TencentOpenAPI.framework</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C21DD5B07E009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0C31DD5B07E009E137A</string>
-				<string>6E31E0C41DD5B07E009E137A</string>
-				<string>6E31E0C51DD5B07E009E137A</string>
-				<string>6E31E0C61DD5B07E009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>WeChatSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C31DD5B07E009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>path</key>
-			<string>libWeChatSDK.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C41DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WechatAuthSDK.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C51DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WXApi.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C61DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WXApiObject.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C71DD5B07E009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0C81DD5B07E009E137A</string>
-				<string>6E31E0C91DD5B07E009E137A</string>
-				<string>6E31E0CA1DD5B07E009E137A</string>
-				<string>6E31E0CB1DD5B07E009E137A</string>
-				<string>6E31E0CC1DD5B07E009E137A</string>
-				<string>6E31E0CD1DD5B07E009E137A</string>
-				<string>6E31E0CE1DD5B07E009E137A</string>
-				<string>6E31E0CF1DD5B07E009E137A</string>
-				<string>6E31E0D01DD5B07E009E137A</string>
-				<string>6E31E0D11DD5B07E009E137A</string>
-				<string>6E31E0D21DD5B07E009E137A</string>
-				<string>6E31E0D31DD5B07E009E137A</string>
-				<string>6E31E0D41DD5B07E009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>WeiBoSDK</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C81DD5B07E009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>archive.ar</string>
-			<key>path</key>
-			<string>libWeiboSDK.a</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0C91DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBHttpRequest+WeiboGame.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CA1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBHttpRequest+WeiboShare.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CB1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBHttpRequest+WeiboToken.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CC1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBHttpRequest+WeiboUser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CD1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBHttpRequest.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CE1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBSDKBasicButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0CF1DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBSDKCommentButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D01DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WBSDKRelationshipButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D11DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WeiboSDK+Statistics.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D21DD5B07E009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>wrapper.plug-in</string>
-			<key>path</key>
-			<string>WeiboSDK.bundle</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D31DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WeiboSDK.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D41DD5B07E009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>WeiboUser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0D51DD5B07E009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0C11DD5B07E009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0D61DD5B07E009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0C31DD5B07E009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0D71DD5B07E009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0C81DD5B07E009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0D81DD5B07E009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0D21DD5B07E009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0D91DD5B0E6009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Common</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DA1DD5B100009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0DD1DD5B1D6009E137A</string>
-				<string>6E31E0DE1DD5B1D6009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Controller</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DB1DD5B151009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>VIew</string>
-			<key>path</key>
-			<string>View</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DC1DD5B16C009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Model</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DD1DD5B1D6009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>ViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DE1DD5B1D6009E137A</key>
-		<dict>
-			<key>fileEncoding</key>
-			<string>4</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>ViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0DF1DD5B1D6009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0DE1DD5B1D6009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>6E31E0E01DD5B3F8009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>ServiceAPI</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0E11DD5B419009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>VenderAPI</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0E21DD5B465009E137A</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>6E31E0E81DD5B731009E137A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Resource</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0E31DD5B48B009E137A</key>
-		<dict>
-			<key>children</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>path</key>
-			<string>Test</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0E81DD5B731009E137A</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>folder.assetcatalog</string>
-			<key>path</key>
-			<string>AppImages.xcassets</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6E31E0E91DD5B731009E137A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6E31E0E81DD5B731009E137A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>8DA42A50BEF7F570E7D57F42</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D38CCB0B17967BBC817F74C8</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>93B3617AB7BCCEE493719E27</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Check Pods Manifest.lock</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>diff "${PODS_ROOT}/../Podfile.lock" "${PODS_ROOT}/Manifest.lock" &gt; /dev/null
-if [[ $? != 0 ]] ; then
-    cat &lt;&lt; EOM
-error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.
-EOM
-    exit 1
-fi
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>9B3BA73F93955EB410DD4FC6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-HooViewApp.release.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.release.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9BF3F9612BDF5883ED83A701</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>text.xcconfig</string>
-			<key>name</key>
-			<string>Pods-HooViewApp.debug.xcconfig</string>
-			<key>path</key>
-			<string>Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.debug.xcconfig</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>BBBBF39F1FD3DE0CFBCABE01</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>inputPaths</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXShellScriptBuildPhase</string>
-			<key>name</key>
-			<string>[CP] Embed Pods Frameworks</string>
-			<key>outputPaths</key>
-			<array/>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-			<key>shellPath</key>
-			<string>/bin/sh</string>
-			<key>shellScript</key>
-			<string>"${SRCROOT}/Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp-frameworks.sh"
-</string>
-			<key>showEnvVarsInLog</key>
-			<string>0</string>
-		</dict>
-		<key>D38CCB0B17967BBC817F74C8</key>
-		<dict>
-			<key>explicitFileType</key>
-			<string>archive.ar</string>
-			<key>includeInIndex</key>
-			<string>0</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>libPods-HooViewApp.a</string>
-			<key>sourceTree</key>
-			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-	</dict>
-	<key>rootObject</key>
-	<string>6E31E0601DD564B5009E137A</string>
-</dict>
-</plist>
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6E31E06D1DD564B5009E137A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06C1DD564B5009E137A /* main.m */; };
+		6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06F1DD564B5009E137A /* AppDelegate.m */; };
+		6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0A01DD5A983009E137A /* CodeStyle.txt */; };
+		6E31E0D51DD5B07E009E137A /* TencentOpenAPI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E31E0C11DD5B07E009E137A /* TencentOpenAPI.framework */; };
+		6E31E0D61DD5B07E009E137A /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E31E0C31DD5B07E009E137A /* libWeChatSDK.a */; };
+		6E31E0D71DD5B07E009E137A /* libWeiboSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E31E0C81DD5B07E009E137A /* libWeiboSDK.a */; };
+		6E31E0D81DD5B07E009E137A /* WeiboSDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0D21DD5B07E009E137A /* WeiboSDK.bundle */; };
+		6E31E0DF1DD5B1D6009E137A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E0DE1DD5B1D6009E137A /* ViewController.m */; };
+		6E31E0E91DD5B731009E137A /* AppImages.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0E81DD5B731009E137A /* AppImages.xcassets */; };
+		6E9245D41DD98F43007A6E6C /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E9245D31DD98F43007A6E6C /* libc++.tbd */; };
+		6E9245D61DD9904A007A6E6C /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */; };
+		8DA42A50BEF7F570E7D57F42 /* libPods-HooViewApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6E31E0821DD564B5009E137A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6E31E0601DD564B5009E137A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E31E0671DD564B5009E137A;
+			remoteInfo = HooViewApp;
+		};
+		6E31E08D1DD564B5009E137A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6E31E0601DD564B5009E137A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6E31E0671DD564B5009E137A;
+			remoteInfo = HooViewApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6E31E0681DD564B5009E137A /* HooViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HooViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E06C1DD564B5009E137A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6E31E06E1DD564B5009E137A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6E31E06F1DD564B5009E137A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6E31E07C1DD564B5009E137A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HooViewAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HooViewAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E31E0A01DD5A983009E137A /* CodeStyle.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CodeStyle.txt; sourceTree = "<group>"; };
+		6E31E0BF1DD5B07E009E137A /* 3rdLibHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 3rdLibHeader.h; sourceTree = "<group>"; };
+		6E31E0C11DD5B07E009E137A /* TencentOpenAPI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TencentOpenAPI.framework; sourceTree = "<group>"; };
+		6E31E0C31DD5B07E009E137A /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
+		6E31E0C41DD5B07E009E137A /* WechatAuthSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WechatAuthSDK.h; sourceTree = "<group>"; };
+		6E31E0C51DD5B07E009E137A /* WXApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
+		6E31E0C61DD5B07E009E137A /* WXApiObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
+		6E31E0C81DD5B07E009E137A /* libWeiboSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeiboSDK.a; sourceTree = "<group>"; };
+		6E31E0C91DD5B07E009E137A /* WBHttpRequest+WeiboGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WBHttpRequest+WeiboGame.h"; sourceTree = "<group>"; };
+		6E31E0CA1DD5B07E009E137A /* WBHttpRequest+WeiboShare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WBHttpRequest+WeiboShare.h"; sourceTree = "<group>"; };
+		6E31E0CB1DD5B07E009E137A /* WBHttpRequest+WeiboToken.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WBHttpRequest+WeiboToken.h"; sourceTree = "<group>"; };
+		6E31E0CC1DD5B07E009E137A /* WBHttpRequest+WeiboUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WBHttpRequest+WeiboUser.h"; sourceTree = "<group>"; };
+		6E31E0CD1DD5B07E009E137A /* WBHttpRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBHttpRequest.h; sourceTree = "<group>"; };
+		6E31E0CE1DD5B07E009E137A /* WBSDKBasicButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBSDKBasicButton.h; sourceTree = "<group>"; };
+		6E31E0CF1DD5B07E009E137A /* WBSDKCommentButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBSDKCommentButton.h; sourceTree = "<group>"; };
+		6E31E0D01DD5B07E009E137A /* WBSDKRelationshipButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WBSDKRelationshipButton.h; sourceTree = "<group>"; };
+		6E31E0D11DD5B07E009E137A /* WeiboSDK+Statistics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WeiboSDK+Statistics.h"; sourceTree = "<group>"; };
+		6E31E0D21DD5B07E009E137A /* WeiboSDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = WeiboSDK.bundle; sourceTree = "<group>"; };
+		6E31E0D31DD5B07E009E137A /* WeiboSDK.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiboSDK.h; sourceTree = "<group>"; };
+		6E31E0D41DD5B07E009E137A /* WeiboUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiboUser.h; sourceTree = "<group>"; };
+		6E31E0DD1DD5B1D6009E137A /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6E31E0DE1DD5B1D6009E137A /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		6E31E0E81DD5B731009E137A /* AppImages.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AppImages.xcassets; sourceTree = "<group>"; };
+		6E9245D31DD98F43007A6E6C /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		9B3BA73F93955EB410DD4FC6 /* Pods-HooViewApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HooViewApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.release.xcconfig"; sourceTree = "<group>"; };
+		9BF3F9612BDF5883ED83A701 /* Pods-HooViewApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HooViewApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.debug.xcconfig"; sourceTree = "<group>"; };
+		D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HooViewApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6E31E0651DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E9245D61DD9904A007A6E6C /* CoreTelephony.framework in Frameworks */,
+				6E9245D41DD98F43007A6E6C /* libc++.tbd in Frameworks */,
+				6E31E0D61DD5B07E009E137A /* libWeChatSDK.a in Frameworks */,
+				6E31E0D71DD5B07E009E137A /* libWeiboSDK.a in Frameworks */,
+				6E31E0D51DD5B07E009E137A /* TencentOpenAPI.framework in Frameworks */,
+				8DA42A50BEF7F570E7D57F42 /* libPods-HooViewApp.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07E1DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E0891DD564B5009E137A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6E31E05F1DD564B5009E137A = {
+			isa = PBXGroup;
+			children = (
+				6E31E06A1DD564B5009E137A /* HooViewApp */,
+				6E31E0691DD564B5009E137A /* Products */,
+				6E31E09E1DD5A921009E137A /* Frameworks */,
+				6E31E09F1DD5A939009E137A /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		6E31E0691DD564B5009E137A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0681DD564B5009E137A /* HooViewApp.app */,
+				6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */,
+				6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6E31E06A1DD564B5009E137A /* HooViewApp */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E06E1DD564B5009E137A /* AppDelegate.h */,
+				6E31E06F1DD564B5009E137A /* AppDelegate.m */,
+				6E31E0BD1DD5AE5F009E137A /* Core */,
+				6E31E0D91DD5B0E6009E137A /* Common */,
+				6E31E0DA1DD5B100009E137A /* Controller */,
+				6E31E0DB1DD5B151009E137A /* VIew */,
+				6E31E0DC1DD5B16C009E137A /* Model */,
+				6E31E0E01DD5B3F8009E137A /* ServiceAPI */,
+				6E31E0E11DD5B419009E137A /* VenderAPI */,
+				6E31E0E21DD5B465009E137A /* Resource */,
+				6E31E0BE1DD5B07E009E137A /* Libs */,
+				6E31E0E31DD5B48B009E137A /* Test */,
+				6E31E06B1DD564B5009E137A /* Supporting Files */,
+			);
+			path = HooViewApp;
+			sourceTree = "<group>";
+		};
+		6E31E06B1DD564B5009E137A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E07C1DD564B5009E137A /* Info.plist */,
+				6E31E06C1DD564B5009E137A /* main.m */,
+				6E31E0A01DD5A983009E137A /* CodeStyle.txt */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6E31E09E1DD5A921009E137A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */,
+				6E9245D31DD98F43007A6E6C /* libc++.tbd */,
+				D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6E31E09F1DD5A939009E137A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9BF3F9612BDF5883ED83A701 /* Pods-HooViewApp.debug.xcconfig */,
+				9B3BA73F93955EB410DD4FC6 /* Pods-HooViewApp.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		6E31E0BD1DD5AE5F009E137A /* Core */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		6E31E0BE1DD5B07E009E137A /* Libs */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0BF1DD5B07E009E137A /* 3rdLibHeader.h */,
+				6E31E0C01DD5B07E009E137A /* QQSDK */,
+				6E31E0C21DD5B07E009E137A /* WeChatSDK */,
+				6E31E0C71DD5B07E009E137A /* WeiBoSDK */,
+			);
+			path = Libs;
+			sourceTree = SOURCE_ROOT;
+		};
+		6E31E0C01DD5B07E009E137A /* QQSDK */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0C11DD5B07E009E137A /* TencentOpenAPI.framework */,
+			);
+			path = QQSDK;
+			sourceTree = "<group>";
+		};
+		6E31E0C21DD5B07E009E137A /* WeChatSDK */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0C31DD5B07E009E137A /* libWeChatSDK.a */,
+				6E31E0C41DD5B07E009E137A /* WechatAuthSDK.h */,
+				6E31E0C51DD5B07E009E137A /* WXApi.h */,
+				6E31E0C61DD5B07E009E137A /* WXApiObject.h */,
+			);
+			path = WeChatSDK;
+			sourceTree = "<group>";
+		};
+		6E31E0C71DD5B07E009E137A /* WeiBoSDK */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0C81DD5B07E009E137A /* libWeiboSDK.a */,
+				6E31E0C91DD5B07E009E137A /* WBHttpRequest+WeiboGame.h */,
+				6E31E0CA1DD5B07E009E137A /* WBHttpRequest+WeiboShare.h */,
+				6E31E0CB1DD5B07E009E137A /* WBHttpRequest+WeiboToken.h */,
+				6E31E0CC1DD5B07E009E137A /* WBHttpRequest+WeiboUser.h */,
+				6E31E0CD1DD5B07E009E137A /* WBHttpRequest.h */,
+				6E31E0CE1DD5B07E009E137A /* WBSDKBasicButton.h */,
+				6E31E0CF1DD5B07E009E137A /* WBSDKCommentButton.h */,
+				6E31E0D01DD5B07E009E137A /* WBSDKRelationshipButton.h */,
+				6E31E0D11DD5B07E009E137A /* WeiboSDK+Statistics.h */,
+				6E31E0D21DD5B07E009E137A /* WeiboSDK.bundle */,
+				6E31E0D31DD5B07E009E137A /* WeiboSDK.h */,
+				6E31E0D41DD5B07E009E137A /* WeiboUser.h */,
+			);
+			path = WeiBoSDK;
+			sourceTree = "<group>";
+		};
+		6E31E0D91DD5B0E6009E137A /* Common */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		6E31E0DA1DD5B100009E137A /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0DD1DD5B1D6009E137A /* ViewController.h */,
+				6E31E0DE1DD5B1D6009E137A /* ViewController.m */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		6E31E0DB1DD5B151009E137A /* VIew */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = VIew;
+			path = View;
+			sourceTree = "<group>";
+		};
+		6E31E0DC1DD5B16C009E137A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6E31E0E01DD5B3F8009E137A /* ServiceAPI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ServiceAPI;
+			sourceTree = "<group>";
+		};
+		6E31E0E11DD5B419009E137A /* VenderAPI */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = VenderAPI;
+			sourceTree = "<group>";
+		};
+		6E31E0E21DD5B465009E137A /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				6E31E0E81DD5B731009E137A /* AppImages.xcassets */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		6E31E0E31DD5B48B009E137A /* Test */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Test;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6E31E0671DD564B5009E137A /* HooViewApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E0951DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewApp" */;
+			buildPhases = (
+				93B3617AB7BCCEE493719E27 /* [CP] Check Pods Manifest.lock */,
+				6E31E0641DD564B5009E137A /* Sources */,
+				6E31E0651DD564B5009E137A /* Frameworks */,
+				6E31E0661DD564B5009E137A /* Resources */,
+				BBBBF39F1FD3DE0CFBCABE01 /* [CP] Embed Pods Frameworks */,
+				4E99AF5AB110364C9D93D85B /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HooViewApp;
+			productName = HooViewApp;
+			productReference = 6E31E0681DD564B5009E137A /* HooViewApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6E31E0801DD564B5009E137A /* HooViewAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E0981DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppTests" */;
+			buildPhases = (
+				6E31E07D1DD564B5009E137A /* Sources */,
+				6E31E07E1DD564B5009E137A /* Frameworks */,
+				6E31E07F1DD564B5009E137A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6E31E0831DD564B5009E137A /* PBXTargetDependency */,
+			);
+			name = HooViewAppTests;
+			productName = HooViewAppTests;
+			productReference = 6E31E0811DD564B5009E137A /* HooViewAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6E31E08B1DD564B5009E137A /* HooViewAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6E31E09B1DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppUITests" */;
+			buildPhases = (
+				6E31E0881DD564B5009E137A /* Sources */,
+				6E31E0891DD564B5009E137A /* Frameworks */,
+				6E31E08A1DD564B5009E137A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6E31E08E1DD564B5009E137A /* PBXTargetDependency */,
+			);
+			name = HooViewAppUITests;
+			productName = HooViewAppUITests;
+			productReference = 6E31E08C1DD564B5009E137A /* HooViewAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6E31E0601DD564B5009E137A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = Ananwu;
+				TargetAttributes = {
+					6E31E0671DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 8YE8AXL3F3;
+						ProvisioningStyle = Automatic;
+					};
+					6E31E0801DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = UGJ4QZYMFY;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6E31E0671DD564B5009E137A;
+					};
+					6E31E08B1DD564B5009E137A = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = UGJ4QZYMFY;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6E31E0671DD564B5009E137A;
+					};
+				};
+			};
+			buildConfigurationList = 6E31E0631DD564B5009E137A /* Build configuration list for PBXProject "HooViewApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6E31E05F1DD564B5009E137A;
+			productRefGroup = 6E31E0691DD564B5009E137A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6E31E0671DD564B5009E137A /* HooViewApp */,
+				6E31E0801DD564B5009E137A /* HooViewAppTests */,
+				6E31E08B1DD564B5009E137A /* HooViewAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6E31E0661DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */,
+				6E31E0D81DD5B07E009E137A /* WeiboSDK.bundle in Resources */,
+				6E31E0E91DD5B731009E137A /* AppImages.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07F1DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E08A1DD564B5009E137A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		4E99AF5AB110364C9D93D85B /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		93B3617AB7BCCEE493719E27 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BBBBF39F1FD3DE0CFBCABE01 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6E31E0641DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6E31E0DF1DD5B1D6009E137A /* ViewController.m in Sources */,
+				6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */,
+				6E31E06D1DD564B5009E137A /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E07D1DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6E31E0881DD564B5009E137A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6E31E0831DD564B5009E137A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6E31E0671DD564B5009E137A /* HooViewApp */;
+			targetProxy = 6E31E0821DD564B5009E137A /* PBXContainerItemProxy */;
+		};
+		6E31E08E1DD564B5009E137A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6E31E0671DD564B5009E137A /* HooViewApp */;
+			targetProxy = 6E31E08D1DD564B5009E137A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6E31E0931DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6E31E0941DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6E31E0961DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9BF3F9612BDF5883ED83A701 /* Pods-HooViewApp.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 8YE8AXL3F3;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HooViewApp/Libs/QQSDK",
+					"$(PROJECT_DIR)/Libs/QQSDK",
+				);
+				INFOPLIST_FILE = HooViewApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK",
+					"$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK",
+					"$(PROJECT_DIR)/Libs/WeChatSDK",
+					"$(PROJECT_DIR)/Libs/WeiBoSDK",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		6E31E0971DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9B3BA73F93955EB410DD4FC6 /* Pods-HooViewApp.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 8YE8AXL3F3;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HooViewApp/Libs/QQSDK",
+					"$(PROJECT_DIR)/Libs/QQSDK",
+				);
+				INFOPLIST_FILE = HooViewApp/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/HooViewApp/Libs/WeChatSDK",
+					"$(PROJECT_DIR)/HooViewApp/Libs/WeiBoSDK",
+					"$(PROJECT_DIR)/Libs/WeChatSDK",
+					"$(PROJECT_DIR)/Libs/WeiBoSDK",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		6E31E0991DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp";
+			};
+			name = Debug;
+		};
+		6E31E09A1DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HooViewApp.app/HooViewApp";
+			};
+			name = Release;
+		};
+		6E31E09C1DD564B5009E137A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HooViewApp;
+			};
+			name = Debug;
+		};
+		6E31E09D1DD564B5009E137A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEVELOPMENT_TEAM = UGJ4QZYMFY;
+				INFOPLIST_FILE = HooViewAppUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.HooViewAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = HooViewApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6E31E0631DD564B5009E137A /* Build configuration list for PBXProject "HooViewApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0931DD564B5009E137A /* Debug */,
+				6E31E0941DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E31E0951DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0961DD564B5009E137A /* Debug */,
+				6E31E0971DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E31E0981DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E0991DD564B5009E137A /* Debug */,
+				6E31E09A1DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6E31E09B1DD564B5009E137A /* Build configuration list for PBXNativeTarget "HooViewAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6E31E09C1DD564B5009E137A /* Debug */,
+				6E31E09D1DD564B5009E137A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6E31E0601DD564B5009E137A /* Project object */;
+}
