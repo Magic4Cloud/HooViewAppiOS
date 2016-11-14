@@ -19,6 +19,8 @@
 		6E9245D41DD98F43007A6E6C /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E9245D31DD98F43007A6E6C /* libc++.tbd */; };
 		6E9245D61DD9904A007A6E6C /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */; };
 		8DA42A50BEF7F570E7D57F42 /* libPods-HooViewApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */; };
+		B58005E41DD9922900295C73 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = B58005E31DD9922900295C73 /* README.txt */; };
+		B58005E61DD9923700295C73 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B58005E51DD9923700295C73 /* CFNetwork.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,6 +75,8 @@
 		6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		9B3BA73F93955EB410DD4FC6 /* Pods-HooViewApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HooViewApp.release.xcconfig"; path = "Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.release.xcconfig"; sourceTree = "<group>"; };
 		9BF3F9612BDF5883ED83A701 /* Pods-HooViewApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HooViewApp.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HooViewApp/Pods-HooViewApp.debug.xcconfig"; sourceTree = "<group>"; };
+		B58005E31DD9922900295C73 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		B58005E51DD9923700295C73 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HooViewApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -81,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B58005E61DD9923700295C73 /* CFNetwork.framework in Frameworks */,
 				6E9245D61DD9904A007A6E6C /* CoreTelephony.framework in Frameworks */,
 				6E9245D41DD98F43007A6E6C /* libc++.tbd in Frameworks */,
 				6E31E0D61DD5B07E009E137A /* libWeChatSDK.a in Frameworks */,
@@ -160,6 +165,7 @@
 		6E31E09E1DD5A921009E137A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B58005E51DD9923700295C73 /* CFNetwork.framework */,
 				6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */,
 				6E9245D31DD98F43007A6E6C /* libc++.tbd */,
 				D38CCB0B17967BBC817F74C8 /* libPods-HooViewApp.a */,
@@ -205,6 +211,7 @@
 		6E31E0C21DD5B07E009E137A /* WeChatSDK */ = {
 			isa = PBXGroup;
 			children = (
+				B58005E31DD9922900295C73 /* README.txt */,
 				6E31E0C31DD5B07E009E137A /* libWeChatSDK.a */,
 				6E31E0C41DD5B07E009E137A /* WechatAuthSDK.h */,
 				6E31E0C51DD5B07E009E137A /* WXApi.h */,
@@ -407,6 +414,7 @@
 			files = (
 				6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */,
 				6E31E0D81DD5B07E009E137A /* WeiboSDK.bundle in Resources */,
+				B58005E41DD9922900295C73 /* README.txt in Resources */,
 				6E31E0E91DD5B731009E137A /* AppImages.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
