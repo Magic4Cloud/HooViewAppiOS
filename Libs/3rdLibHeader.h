@@ -12,6 +12,5 @@
 #import "TencentOpenAPI/TencentOAuth.h"
 #import "TencentOpenAPI/TencentOAuthObject.h"
 
-#import "EasyLive.h"
 #import "WeiboSDK.h"
 #import "WeiboUser.h"
