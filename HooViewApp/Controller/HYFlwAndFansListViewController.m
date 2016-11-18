@@ -1,18 +1,18 @@
 //
-//  HYForgotPWDViewController.m
+//  HYFlwAndFansListViewController.m
 //  HooViewApp
 //
-//  Created by Ananwu on 2016/11/16.
+//  Created by Ananwu on 2016/11/17.
 //  Copyright © 2016年 Ananwu. All rights reserved.
 //
 
-#import "HYForgotPWDViewController.h"
+#import "HYFlwAndFansListViewController.h"
 
-@interface HYForgotPWDViewController ()
+@interface HYFlwAndFansListViewController ()
 
 @end
 
-@implementation HYForgotPWDViewController
+@implementation HYFlwAndFansListViewController
 
 #pragma mark - Setters/Getters
 

@@ -1,18 +1,18 @@
 //
-//  HYForgotPWDViewController.m
+//  HYColumnCommentsListViewController.m
 //  HooViewApp
 //
-//  Created by Ananwu on 2016/11/16.
+//  Created by Ananwu on 2016/11/18.
 //  Copyright © 2016年 Ananwu. All rights reserved.
 //
 
-#import "HYForgotPWDViewController.h"
+#import "HYColumnCommentsListViewController.h"
 
-@interface HYForgotPWDViewController ()
+@interface HYColumnCommentsListViewController ()
 
 @end
 
-@implementation HYForgotPWDViewController
+@implementation HYColumnCommentsListViewController
 
 #pragma mark - Setters/Getters
 
@@ -66,6 +66,7 @@
 #pragma mark – Target action methods
 
 #pragma mark – Request service methods
+
 /*
 #pragma mark - Navigation
 

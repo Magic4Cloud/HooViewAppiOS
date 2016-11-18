@@ -14,17 +14,58 @@
 
 @implementation HYSecretaryMSGListViewController
 
+#pragma mark - Setters/Getters
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib.
-}
+#pragma mark – Override properties
+
+#pragma mark – Class methods
+
+#pragma mark – Public methods
+
+#pragma mark – Private methods
+
+#pragma mark --- memory && initialization
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
 
+- (void) dealloc {
+    
+}
+
+#pragma mark --- lif cycle
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    
+}
+
+- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    self.navigationController.navigationBar.hidden = NO;
+    
+}
+
+- (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+    
+}
+
+- (void)viewWillDisappear:(BOOL)animated {
+    [super viewWillDisappear:animated];
+}
+
+- (void)viewDidDisappear:(BOOL)animated {
+    [super viewDidDisappear:animated];
+}
+
+#pragma mark - Override super methods
+
+#pragma mark – Target action methods
+
+#pragma mark – Request service methods
 /*
 #pragma mark - Navigation
 

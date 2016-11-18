@@ -21,6 +21,26 @@
 		6E013D391DDC021A005DCDC7 /* HYForgotPWDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D371DDC021A005DCDC7 /* HYForgotPWDViewController.xib */; };
 		6E013D3D1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D3B1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.m */; };
 		6E013D3E1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D3C1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.xib */; };
+		6E013D411DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D401DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.m */; };
+		6E013D431DDC6DFC005DCDC7 /* HYSecretaryMSGListTableCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D421DDC6DFC005DCDC7 /* HYSecretaryMSGListTableCell.xib */; };
+		6E013D481DDD583F005DCDC7 /* HYEditUserInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D461DDD583F005DCDC7 /* HYEditUserInfoViewController.m */; };
+		6E013D491DDD583F005DCDC7 /* HYEditUserInfoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D471DDD583F005DCDC7 /* HYEditUserInfoViewController.xib */; };
+		6E013D4D1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D4B1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.m */; };
+		6E013D4E1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D4C1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.xib */; };
+		6E013D521DDD8F45005DCDC7 /* HYMyFavViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D501DDD8F45005DCDC7 /* HYMyFavViewController.m */; };
+		6E013D531DDD8F45005DCDC7 /* HYMyFavViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D511DDD8F45005DCDC7 /* HYMyFavViewController.xib */; };
+		6E013D571DDD9E5A005DCDC7 /* HYAccountManagerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D551DDD9E5A005DCDC7 /* HYAccountManagerViewController.m */; };
+		6E013D581DDD9E5A005DCDC7 /* HYAccountManagerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D561DDD9E5A005DCDC7 /* HYAccountManagerViewController.xib */; };
+		6E013D5C1DDDA879005DCDC7 /* HYChangePWDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D5A1DDDA879005DCDC7 /* HYChangePWDViewController.m */; };
+		6E013D5D1DDDA879005DCDC7 /* HYChangePWDViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D5B1DDDA879005DCDC7 /* HYChangePWDViewController.xib */; };
+		6E013D621DDDD17A005DCDC7 /* HYLivePrepareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D601DDDD17A005DCDC7 /* HYLivePrepareViewController.m */; };
+		6E013D631DDDD17A005DCDC7 /* HYLivePrepareViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D611DDDD17A005DCDC7 /* HYLivePrepareViewController.xib */; };
+		6E013D671DDEA365005DCDC7 /* HYViideoEndViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D651DDEA365005DCDC7 /* HYViideoEndViewController.m */; };
+		6E013D681DDEA365005DCDC7 /* HYViideoEndViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D661DDEA365005DCDC7 /* HYViideoEndViewController.xib */; };
+		6E013D6D1DDEB09E005DCDC7 /* HYColumnDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D6B1DDEB09E005DCDC7 /* HYColumnDetailsViewController.m */; };
+		6E013D6E1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D6C1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib */; };
+		6E013D721DDED675005DCDC7 /* HYColumnCommentsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D701DDED675005DCDC7 /* HYColumnCommentsListViewController.m */; };
+		6E013D731DDED675005DCDC7 /* HYColumnCommentsListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D711DDED675005DCDC7 /* HYColumnCommentsListViewController.xib */; };
 		6E31E06D1DD564B5009E137A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06C1DD564B5009E137A /* main.m */; };
 		6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06F1DD564B5009E137A /* AppDelegate.m */; };
 		6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0A01DD5A983009E137A /* CodeStyle.txt */; };
@@ -119,6 +139,36 @@
 		6E013D3A1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSecretaryMSGListViewController.h; sourceTree = "<group>"; };
 		6E013D3B1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSecretaryMSGListViewController.m; sourceTree = "<group>"; };
 		6E013D3C1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYSecretaryMSGListViewController.xib; sourceTree = "<group>"; };
+		6E013D3F1DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYSecretaryMSGListTableCell.h; sourceTree = "<group>"; };
+		6E013D401DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYSecretaryMSGListTableCell.m; sourceTree = "<group>"; };
+		6E013D421DDC6DFC005DCDC7 /* HYSecretaryMSGListTableCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYSecretaryMSGListTableCell.xib; sourceTree = "<group>"; };
+		6E013D451DDD583F005DCDC7 /* HYEditUserInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYEditUserInfoViewController.h; sourceTree = "<group>"; };
+		6E013D461DDD583F005DCDC7 /* HYEditUserInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYEditUserInfoViewController.m; sourceTree = "<group>"; };
+		6E013D471DDD583F005DCDC7 /* HYEditUserInfoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYEditUserInfoViewController.xib; sourceTree = "<group>"; };
+		6E013D4A1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYFlwAndFansListViewController.h; sourceTree = "<group>"; };
+		6E013D4B1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYFlwAndFansListViewController.m; sourceTree = "<group>"; };
+		6E013D4C1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYFlwAndFansListViewController.xib; sourceTree = "<group>"; };
+		6E013D4F1DDD8F45005DCDC7 /* HYMyFavViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYMyFavViewController.h; sourceTree = "<group>"; };
+		6E013D501DDD8F45005DCDC7 /* HYMyFavViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYMyFavViewController.m; sourceTree = "<group>"; };
+		6E013D511DDD8F45005DCDC7 /* HYMyFavViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYMyFavViewController.xib; sourceTree = "<group>"; };
+		6E013D541DDD9E5A005DCDC7 /* HYAccountManagerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYAccountManagerViewController.h; sourceTree = "<group>"; };
+		6E013D551DDD9E5A005DCDC7 /* HYAccountManagerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYAccountManagerViewController.m; sourceTree = "<group>"; };
+		6E013D561DDD9E5A005DCDC7 /* HYAccountManagerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYAccountManagerViewController.xib; sourceTree = "<group>"; };
+		6E013D591DDDA879005DCDC7 /* HYChangePWDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYChangePWDViewController.h; sourceTree = "<group>"; };
+		6E013D5A1DDDA879005DCDC7 /* HYChangePWDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYChangePWDViewController.m; sourceTree = "<group>"; };
+		6E013D5B1DDDA879005DCDC7 /* HYChangePWDViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYChangePWDViewController.xib; sourceTree = "<group>"; };
+		6E013D5F1DDDD17A005DCDC7 /* HYLivePrepareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYLivePrepareViewController.h; sourceTree = "<group>"; };
+		6E013D601DDDD17A005DCDC7 /* HYLivePrepareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYLivePrepareViewController.m; sourceTree = "<group>"; };
+		6E013D611DDDD17A005DCDC7 /* HYLivePrepareViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYLivePrepareViewController.xib; sourceTree = "<group>"; };
+		6E013D641DDEA365005DCDC7 /* HYViideoEndViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYViideoEndViewController.h; sourceTree = "<group>"; };
+		6E013D651DDEA365005DCDC7 /* HYViideoEndViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYViideoEndViewController.m; sourceTree = "<group>"; };
+		6E013D661DDEA365005DCDC7 /* HYViideoEndViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYViideoEndViewController.xib; sourceTree = "<group>"; };
+		6E013D6A1DDEB09E005DCDC7 /* HYColumnDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYColumnDetailsViewController.h; sourceTree = "<group>"; };
+		6E013D6B1DDEB09E005DCDC7 /* HYColumnDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYColumnDetailsViewController.m; sourceTree = "<group>"; };
+		6E013D6C1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYColumnDetailsViewController.xib; sourceTree = "<group>"; };
+		6E013D6F1DDED675005DCDC7 /* HYColumnCommentsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYColumnCommentsListViewController.h; sourceTree = "<group>"; };
+		6E013D701DDED675005DCDC7 /* HYColumnCommentsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYColumnCommentsListViewController.m; sourceTree = "<group>"; };
+		6E013D711DDED675005DCDC7 /* HYColumnCommentsListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYColumnCommentsListViewController.xib; sourceTree = "<group>"; };
 		6E31E0681DD564B5009E137A /* HooViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HooViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E31E06C1DD564B5009E137A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6E31E06E1DD564B5009E137A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -285,6 +335,9 @@
 				6E013D231DDBFD17005DCDC7 /* HYHomeVideoListTableCell.h */,
 				6E013D241DDBFD17005DCDC7 /* HYHomeVideoListTableCell.m */,
 				6E013D271DDBFD4E005DCDC7 /* HYHomeVideoListTableCell.xib */,
+				6E013D3F1DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.h */,
+				6E013D401DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.m */,
+				6E013D421DDC6DFC005DCDC7 /* HYSecretaryMSGListTableCell.xib */,
 			);
 			name = Home;
 			sourceTree = "<group>";
@@ -303,6 +356,54 @@
 				6E013D371DDC021A005DCDC7 /* HYForgotPWDViewController.xib */,
 			);
 			name = "Login&Register";
+			sourceTree = "<group>";
+		};
+		6E013D441DDD5370005DCDC7 /* UserCenter */ = {
+			isa = PBXGroup;
+			children = (
+				6E013D451DDD583F005DCDC7 /* HYEditUserInfoViewController.h */,
+				6E013D461DDD583F005DCDC7 /* HYEditUserInfoViewController.m */,
+				6E013D471DDD583F005DCDC7 /* HYEditUserInfoViewController.xib */,
+				6E013D4A1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.h */,
+				6E013D4B1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.m */,
+				6E013D4C1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.xib */,
+				6E013D4F1DDD8F45005DCDC7 /* HYMyFavViewController.h */,
+				6E013D501DDD8F45005DCDC7 /* HYMyFavViewController.m */,
+				6E013D511DDD8F45005DCDC7 /* HYMyFavViewController.xib */,
+				6E013D541DDD9E5A005DCDC7 /* HYAccountManagerViewController.h */,
+				6E013D551DDD9E5A005DCDC7 /* HYAccountManagerViewController.m */,
+				6E013D561DDD9E5A005DCDC7 /* HYAccountManagerViewController.xib */,
+				6E013D591DDDA879005DCDC7 /* HYChangePWDViewController.h */,
+				6E013D5A1DDDA879005DCDC7 /* HYChangePWDViewController.m */,
+				6E013D5B1DDDA879005DCDC7 /* HYChangePWDViewController.xib */,
+			);
+			name = UserCenter;
+			sourceTree = "<group>";
+		};
+		6E013D5E1DDDD13C005DCDC7 /* Live&Watch */ = {
+			isa = PBXGroup;
+			children = (
+				6E013D5F1DDDD17A005DCDC7 /* HYLivePrepareViewController.h */,
+				6E013D601DDDD17A005DCDC7 /* HYLivePrepareViewController.m */,
+				6E013D611DDDD17A005DCDC7 /* HYLivePrepareViewController.xib */,
+				6E013D641DDEA365005DCDC7 /* HYViideoEndViewController.h */,
+				6E013D651DDEA365005DCDC7 /* HYViideoEndViewController.m */,
+				6E013D661DDEA365005DCDC7 /* HYViideoEndViewController.xib */,
+			);
+			name = "Live&Watch";
+			sourceTree = "<group>";
+		};
+		6E013D691DDEB07C005DCDC7 /* Column */ = {
+			isa = PBXGroup;
+			children = (
+				6E013D6A1DDEB09E005DCDC7 /* HYColumnDetailsViewController.h */,
+				6E013D6B1DDEB09E005DCDC7 /* HYColumnDetailsViewController.m */,
+				6E013D6C1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib */,
+				6E013D6F1DDED675005DCDC7 /* HYColumnCommentsListViewController.h */,
+				6E013D701DDED675005DCDC7 /* HYColumnCommentsListViewController.m */,
+				6E013D711DDED675005DCDC7 /* HYColumnCommentsListViewController.xib */,
+			);
+			name = Column;
 			sourceTree = "<group>";
 		};
 		6E31E05F1DD564B5009E137A = {
@@ -452,6 +553,9 @@
 		6E31E0DA1DD5B100009E137A /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				6E013D691DDEB07C005DCDC7 /* Column */,
+				6E013D5E1DDDD13C005DCDC7 /* Live&Watch */,
+				6E013D441DDD5370005DCDC7 /* UserCenter */,
 				6E013D291DDBFEF0005DCDC7 /* Login&Register */,
 				6ED120761DDB09DB0053F81B /* Home */,
 				6E31E0DD1DD5B1D6009E137A /* ViewController.h */,
@@ -781,14 +885,24 @@
 			files = (
 				6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */,
 				6E31E0D81DD5B07E009E137A /* WeiboSDK.bundle in Resources */,
+				6E013D431DDC6DFC005DCDC7 /* HYSecretaryMSGListTableCell.xib in Resources */,
 				6E013D391DDC021A005DCDC7 /* HYForgotPWDViewController.xib in Resources */,
+				6E013D581DDD9E5A005DCDC7 /* HYAccountManagerViewController.xib in Resources */,
 				6E013D341DDC0200005DCDC7 /* HYRegisterViewController.xib in Resources */,
 				6E013D281DDBFD4E005DCDC7 /* HYHomeVideoListTableCell.xib in Resources */,
+				6E013D491DDD583F005DCDC7 /* HYEditUserInfoViewController.xib in Resources */,
+				6E013D631DDDD17A005DCDC7 /* HYLivePrepareViewController.xib in Resources */,
+				6E013D681DDEA365005DCDC7 /* HYViideoEndViewController.xib in Resources */,
 				B58005E41DD9922900295C73 /* README.txt in Resources */,
+				6E013D6E1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib in Resources */,
 				6E013D3E1DDC060F005DCDC7 /* HYSecretaryMSGListViewController.xib in Resources */,
 				6E013D1D1DDBFC25005DCDC7 /* HYColumnListViewController.xib in Resources */,
 				6E31E0E91DD5B731009E137A /* AppImages.xcassets in Resources */,
+				6E013D4E1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.xib in Resources */,
+				6E013D5D1DDDA879005DCDC7 /* HYChangePWDViewController.xib in Resources */,
+				6E013D731DDED675005DCDC7 /* HYColumnCommentsListViewController.xib in Resources */,
 				6E013D221DDBFCC3005DCDC7 /* HYPersonalViewController.xib in Resources */,
+				6E013D531DDD8F45005DCDC7 /* HYMyFavViewController.xib in Resources */,
 				6ED120751DDB09D50053F81B /* HYHomePageViewController.xib in Resources */,
 				6E013D2F1DDBFF48005DCDC7 /* HYLoginViewController.xib in Resources */,
 			);
@@ -864,15 +978,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E92463C1DD99700007A6E6C /* UIImage+Extension.m in Sources */,
+				6E013D721DDED675005DCDC7 /* HYColumnCommentsListViewController.m in Sources */,
 				6E9246481DD99700007A6E6C /* CoreNibFileCache.m in Sources */,
 				6E9246491DD99700007A6E6C /* CoreTableViewCell.m in Sources */,
 				6E92463D1DD99700007A6E6C /* UIImage+YYAdd.m in Sources */,
 				6E013D331DDC0200005DCDC7 /* HYRegisterViewController.m in Sources */,
+				6E013D6D1DDEB09E005DCDC7 /* HYColumnDetailsViewController.m in Sources */,
 				6E92464E1DD99700007A6E6C /* CoreCache.m in Sources */,
 				6E9246431DD99700007A6E6C /* UIView+Extension.m in Sources */,
 				6E92464A1DD99700007A6E6C /* CoreUILabel.m in Sources */,
 				6E92464D1DD99700007A6E6C /* CoreUIViewController+Notification.m in Sources */,
 				6E9246341DD99700007A6E6C /* NSMutableArray+Shuffle.m in Sources */,
+				6E013D411DDC6DE1005DCDC7 /* HYSecretaryMSGListTableCell.m in Sources */,
 				6E9246411DD99700007A6E6C /* UIScrollView+Extension.m in Sources */,
 				6E013D2E1DDBFF48005DCDC7 /* HYLoginViewController.m in Sources */,
 				6E9246581DD99700007A6E6C /* AppUtility.m in Sources */,
@@ -892,22 +1009,29 @@
 				6E9246521DD99700007A6E6C /* MessageNotificationView.m in Sources */,
 				6E9246381DD99700007A6E6C /* NSString+Time.m in Sources */,
 				6E9246531DD99700007A6E6C /* CommonHelper.m in Sources */,
+				6E013D481DDD583F005DCDC7 /* HYEditUserInfoViewController.m in Sources */,
 				6E9246401DD99700007A6E6C /* UINavigationController+Extension.m in Sources */,
 				6E92464F1DD99700007A6E6C /* CoreQueue.m in Sources */,
+				6E013D671DDEA365005DCDC7 /* HYViideoEndViewController.m in Sources */,
 				6E9246551DD99700007A6E6C /* NSObject+JSON.m in Sources */,
 				6E92464C1DD99700007A6E6C /* CoreUIViewController.m in Sources */,
 				6E9246441DD99700007A6E6C /* UIView+Shake.m in Sources */,
 				6E9246471DD99700007A6E6C /* CoreCollectionViewCell.m in Sources */,
+				6E013D5C1DDDA879005DCDC7 /* HYChangePWDViewController.m in Sources */,
+				6E013D571DDD9E5A005DCDC7 /* HYAccountManagerViewController.m in Sources */,
 				6E31E0DF1DD5B1D6009E137A /* ViewController.m in Sources */,
 				6E9246391DD99700007A6E6C /* NSString+YYAdd.m in Sources */,
 				6E9246571DD99700007A6E6C /* UILabel+Extension.m in Sources */,
+				6E013D4D1DDD8A01005DCDC7 /* HYFlwAndFansListViewController.m in Sources */,
 				6E92463F1DD99700007A6E6C /* UINavigationBar+Extension.m in Sources */,
 				6E9246351DD99700007A6E6C /* NSNumber+YYAdd.m in Sources */,
 				6E9246371DD99700007A6E6C /* NSString+Extension.m in Sources */,
 				6E9246331DD99700007A6E6C /* NSDate+Extension.m in Sources */,
+				6E013D521DDD8F45005DCDC7 /* HYMyFavViewController.m in Sources */,
 				6E92463E1DD99700007A6E6C /* UIImageView+Extension.m in Sources */,
 				6E013D211DDBFCC3005DCDC7 /* HYPersonalViewController.m in Sources */,
 				6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */,
+				6E013D621DDDD17A005DCDC7 /* HYLivePrepareViewController.m in Sources */,
 				6E9246541DD99700007A6E6C /* NSArray+JSON.m in Sources */,
 				6E013D251DDBFD17005DCDC7 /* HYHomeVideoListTableCell.m in Sources */,
 				6E92463B1DD99700007A6E6C /* UIDevice+YYAdd.m in Sources */,

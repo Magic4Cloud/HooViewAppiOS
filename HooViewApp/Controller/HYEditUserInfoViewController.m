@@ -1,18 +1,18 @@
 //
-//  HYForgotPWDViewController.m
+//  HYEditUserInfoViewController.m
 //  HooViewApp
 //
-//  Created by Ananwu on 2016/11/16.
+//  Created by Ananwu on 2016/11/17.
 //  Copyright © 2016年 Ananwu. All rights reserved.
 //
 
-#import "HYForgotPWDViewController.h"
+#import "HYEditUserInfoViewController.h"
 
-@interface HYForgotPWDViewController ()
+@interface HYEditUserInfoViewController ()
 
 @end
 
-@implementation HYForgotPWDViewController
+@implementation HYEditUserInfoViewController
 
 #pragma mark - Setters/Getters
 
@@ -66,6 +66,8 @@
 #pragma mark – Target action methods
 
 #pragma mark – Request service methods
+
+
 /*
 #pragma mark - Navigation
 

@@ -1,18 +1,18 @@
 //
-//  HYForgotPWDViewController.m
+//  HYLivePrepareViewController.m
 //  HooViewApp
 //
-//  Created by Ananwu on 2016/11/16.
+//  Created by Ananwu on 2016/11/17.
 //  Copyright © 2016年 Ananwu. All rights reserved.
 //
 
-#import "HYForgotPWDViewController.h"
+#import "HYLivePrepareViewController.h"
 
-@interface HYForgotPWDViewController ()
+@interface HYLivePrepareViewController ()
 
 @end
 
-@implementation HYForgotPWDViewController
+@implementation HYLivePrepareViewController
 
 #pragma mark - Setters/Getters
 
@@ -66,6 +66,7 @@
 #pragma mark – Target action methods
 
 #pragma mark – Request service methods
+
 /*
 #pragma mark - Navigation
 
