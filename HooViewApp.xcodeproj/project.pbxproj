@@ -41,6 +41,29 @@
 		6E013D6E1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D6C1DDEB09E005DCDC7 /* HYColumnDetailsViewController.xib */; };
 		6E013D721DDED675005DCDC7 /* HYColumnCommentsListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E013D701DDED675005DCDC7 /* HYColumnCommentsListViewController.m */; };
 		6E013D731DDED675005DCDC7 /* HYColumnCommentsListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E013D711DDED675005DCDC7 /* HYColumnCommentsListViewController.xib */; };
+		6E013DC41DE53BC5005DCDC7 /* libEVMediaBase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DB11DE53BC5005DCDC7 /* libEVMediaBase.a */; };
+		6E013DC51DE53BC5005DCDC7 /* libEVSDKBase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DB21DE53BC5005DCDC7 /* libEVSDKBase.a */; };
+		6E013DC61DE53BC5005DCDC7 /* libEVMessage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DB81DE53BC5005DCDC7 /* libEVMessage.a */; };
+		6E013DC71DE53BC5005DCDC7 /* libEVPlayer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DBC1DE53BC5005DCDC7 /* libEVPlayer.a */; };
+		6E013DC81DE53BC5005DCDC7 /* AgoraRtcEngineKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DBE1DE53BC5005DCDC7 /* AgoraRtcEngineKit.framework */; };
+		6E013DC91DE53BC5005DCDC7 /* libEVStreamer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DC21DE53BC5005DCDC7 /* libEVStreamer.a */; };
+		6E013DCA1DE53BC5005DCDC7 /* videoprp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DC31DE53BC5005DCDC7 /* videoprp.framework */; };
+		6E013DCC1DE53C5C005DCDC7 /* libstdc++.6.0.9.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DCB1DE53C5C005DCDC7 /* libstdc++.6.0.9.tbd */; };
+		6E013DCE1DE53C6F005DCDC7 /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DCD1DE53C6F005DCDC7 /* libstdc++.tbd */; };
+		6E013DD01DE53C7D005DCDC7 /* libstdc++.6.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DCF1DE53C7D005DCDC7 /* libstdc++.6.tbd */; };
+		6E013DD21DE53C87005DCDC7 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DD11DE53C87005DCDC7 /* CoreMotion.framework */; };
+		6E013DD41DE53C95005DCDC7 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DD31DE53C95005DCDC7 /* CoreFoundation.framework */; };
+		6E013DD61DE53CA1005DCDC7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DD51DE53CA1005DCDC7 /* CoreGraphics.framework */; };
+		6E013DD81DE53CB0005DCDC7 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DD71DE53CB0005DCDC7 /* AudioToolbox.framework */; };
+		6E013DDA1DE53CB9005DCDC7 /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DD91DE53CB9005DCDC7 /* VideoToolbox.framework */; };
+		6E013DDC1DE53CC3005DCDC7 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DDB1DE53CC3005DCDC7 /* AVFoundation.framework */; };
+		6E013DDE1DE53CE8005DCDC7 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DDD1DE53CE8005DCDC7 /* OpenGLES.framework */; };
+		6E013DE01DE53D01005DCDC7 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DDF1DE53D01005DCDC7 /* CoreMedia.framework */; };
+		6E013DE21DE53D0F005DCDC7 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DE11DE53D0F005DCDC7 /* libz.tbd */; };
+		6E013DE41DE53D1D005DCDC7 /* libicucore.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DE31DE53D1D005DCDC7 /* libicucore.tbd */; };
+		6E013DE61DE53D2A005DCDC7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DE51DE53D2A005DCDC7 /* UIKit.framework */; };
+		6E013DE81DE53D35005DCDC7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DE71DE53D35005DCDC7 /* Foundation.framework */; };
+		6E013DEA1DE53D40005DCDC7 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6E013DE91DE53D40005DCDC7 /* Security.framework */; };
 		6E31E06D1DD564B5009E137A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06C1DD564B5009E137A /* main.m */; };
 		6E31E0701DD564B5009E137A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E31E06F1DD564B5009E137A /* AppDelegate.m */; };
 		6E31E0A11DD5A983009E137A /* CodeStyle.txt in Resources */ = {isa = PBXBuildFile; fileRef = 6E31E0A01DD5A983009E137A /* CodeStyle.txt */; };
@@ -169,6 +192,39 @@
 		6E013D6F1DDED675005DCDC7 /* HYColumnCommentsListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HYColumnCommentsListViewController.h; sourceTree = "<group>"; };
 		6E013D701DDED675005DCDC7 /* HYColumnCommentsListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HYColumnCommentsListViewController.m; sourceTree = "<group>"; };
 		6E013D711DDED675005DCDC7 /* HYColumnCommentsListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = HYColumnCommentsListViewController.xib; sourceTree = "<group>"; };
+		6E013DB01DE53BC5005DCDC7 /* EVSDKManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVSDKManager.h; sourceTree = "<group>"; };
+		6E013DB11DE53BC5005DCDC7 /* libEVMediaBase.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEVMediaBase.a; sourceTree = "<group>"; };
+		6E013DB21DE53BC5005DCDC7 /* libEVSDKBase.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEVSDKBase.a; sourceTree = "<group>"; };
+		6E013DB41DE53BC5005DCDC7 /* EVMessage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVMessage.h; sourceTree = "<group>"; };
+		6E013DB51DE53BC5005DCDC7 /* EVMessageConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVMessageConfig.h; sourceTree = "<group>"; };
+		6E013DB61DE53BC5005DCDC7 /* EVMessageManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVMessageManager.h; sourceTree = "<group>"; };
+		6E013DB71DE53BC5005DCDC7 /* EVMessageProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVMessageProtocol.h; sourceTree = "<group>"; };
+		6E013DB81DE53BC5005DCDC7 /* libEVMessage.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEVMessage.a; sourceTree = "<group>"; };
+		6E013DBA1DE53BC5005DCDC7 /* EVPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVPlayer.h; sourceTree = "<group>"; };
+		6E013DBB1DE53BC5005DCDC7 /* EVPlayerConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVPlayerConfig.h; sourceTree = "<group>"; };
+		6E013DBC1DE53BC5005DCDC7 /* libEVPlayer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEVPlayer.a; sourceTree = "<group>"; };
+		6E013DBE1DE53BC5005DCDC7 /* AgoraRtcEngineKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AgoraRtcEngineKit.framework; sourceTree = "<group>"; };
+		6E013DBF1DE53BC5005DCDC7 /* EVAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVAudioPlayer.h; sourceTree = "<group>"; };
+		6E013DC01DE53BC5005DCDC7 /* EVStreamer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVStreamer.h; sourceTree = "<group>"; };
+		6E013DC11DE53BC5005DCDC7 /* EVStreamerConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EVStreamerConfig.h; sourceTree = "<group>"; };
+		6E013DC21DE53BC5005DCDC7 /* libEVStreamer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libEVStreamer.a; sourceTree = "<group>"; };
+		6E013DC31DE53BC5005DCDC7 /* videoprp.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = videoprp.framework; sourceTree = "<group>"; };
+		6E013DCB1DE53C5C005DCDC7 /* libstdc++.6.0.9.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.0.9.tbd"; path = "usr/lib/libstdc++.6.0.9.tbd"; sourceTree = SDKROOT; };
+		6E013DCD1DE53C6F005DCDC7 /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
+		6E013DCF1DE53C7D005DCDC7 /* libstdc++.6.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.6.tbd"; path = "usr/lib/libstdc++.6.tbd"; sourceTree = SDKROOT; };
+		6E013DD11DE53C87005DCDC7 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		6E013DD31DE53C95005DCDC7 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		6E013DD51DE53CA1005DCDC7 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6E013DD71DE53CB0005DCDC7 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		6E013DD91DE53CB9005DCDC7 /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
+		6E013DDB1DE53CC3005DCDC7 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		6E013DDD1DE53CE8005DCDC7 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		6E013DDF1DE53D01005DCDC7 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		6E013DE11DE53D0F005DCDC7 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		6E013DE31DE53D1D005DCDC7 /* libicucore.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libicucore.tbd; path = usr/lib/libicucore.tbd; sourceTree = SDKROOT; };
+		6E013DE51DE53D2A005DCDC7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6E013DE71DE53D35005DCDC7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6E013DE91DE53D40005DCDC7 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		6E31E0681DD564B5009E137A /* HooViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HooViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E31E06C1DD564B5009E137A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6E31E06E1DD564B5009E137A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -302,13 +358,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E013DEA1DE53D40005DCDC7 /* Security.framework in Frameworks */,
+				6E013DE81DE53D35005DCDC7 /* Foundation.framework in Frameworks */,
+				6E013DE61DE53D2A005DCDC7 /* UIKit.framework in Frameworks */,
+				6E013DE41DE53D1D005DCDC7 /* libicucore.tbd in Frameworks */,
+				6E013DE21DE53D0F005DCDC7 /* libz.tbd in Frameworks */,
+				6E013DE01DE53D01005DCDC7 /* CoreMedia.framework in Frameworks */,
+				6E013DDE1DE53CE8005DCDC7 /* OpenGLES.framework in Frameworks */,
+				6E013DDC1DE53CC3005DCDC7 /* AVFoundation.framework in Frameworks */,
+				6E013DDA1DE53CB9005DCDC7 /* VideoToolbox.framework in Frameworks */,
+				6E013DD81DE53CB0005DCDC7 /* AudioToolbox.framework in Frameworks */,
+				6E013DD61DE53CA1005DCDC7 /* CoreGraphics.framework in Frameworks */,
+				6E013DD41DE53C95005DCDC7 /* CoreFoundation.framework in Frameworks */,
+				6E013DD21DE53C87005DCDC7 /* CoreMotion.framework in Frameworks */,
+				6E013DD01DE53C7D005DCDC7 /* libstdc++.6.tbd in Frameworks */,
+				6E013DCE1DE53C6F005DCDC7 /* libstdc++.tbd in Frameworks */,
+				6E013DCC1DE53C5C005DCDC7 /* libstdc++.6.0.9.tbd in Frameworks */,
+				6E013DC81DE53BC5005DCDC7 /* AgoraRtcEngineKit.framework in Frameworks */,
+				6E013DC71DE53BC5005DCDC7 /* libEVPlayer.a in Frameworks */,
 				B58005E61DD9923700295C73 /* CFNetwork.framework in Frameworks */,
 				6E9245D61DD9904A007A6E6C /* CoreTelephony.framework in Frameworks */,
+				6E013DC61DE53BC5005DCDC7 /* libEVMessage.a in Frameworks */,
 				6E9245D41DD98F43007A6E6C /* libc++.tbd in Frameworks */,
 				6E31E0D61DD5B07E009E137A /* libWeChatSDK.a in Frameworks */,
+				6E013DC41DE53BC5005DCDC7 /* libEVMediaBase.a in Frameworks */,
 				6E31E0D71DD5B07E009E137A /* libWeiboSDK.a in Frameworks */,
 				6E31E0D51DD5B07E009E137A /* TencentOpenAPI.framework in Frameworks */,
+				6E013DC51DE53BC5005DCDC7 /* libEVSDKBase.a in Frameworks */,
 				8DA42A50BEF7F570E7D57F42 /* libPods-HooViewApp.a in Frameworks */,
+				6E013DC91DE53BC5005DCDC7 /* libEVStreamer.a in Frameworks */,
+				6E013DCA1DE53BC5005DCDC7 /* videoprp.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -406,6 +485,63 @@
 			name = Column;
 			sourceTree = "<group>";
 		};
+		6E013DAE1DE53B88005DCDC7 /* EVSDK  */ = {
+			isa = PBXGroup;
+			children = (
+				6E013DAF1DE53BC5005DCDC7 /* Base */,
+				6E013DB31DE53BC5005DCDC7 /* Message */,
+				6E013DB91DE53BC5005DCDC7 /* Player */,
+				6E013DBD1DE53BC5005DCDC7 /* Streamer */,
+			);
+			name = "EVSDK ";
+			path = EVSDK;
+			sourceTree = "<group>";
+		};
+		6E013DAF1DE53BC5005DCDC7 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				6E013DB01DE53BC5005DCDC7 /* EVSDKManager.h */,
+				6E013DB11DE53BC5005DCDC7 /* libEVMediaBase.a */,
+				6E013DB21DE53BC5005DCDC7 /* libEVSDKBase.a */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		6E013DB31DE53BC5005DCDC7 /* Message */ = {
+			isa = PBXGroup;
+			children = (
+				6E013DB41DE53BC5005DCDC7 /* EVMessage.h */,
+				6E013DB51DE53BC5005DCDC7 /* EVMessageConfig.h */,
+				6E013DB61DE53BC5005DCDC7 /* EVMessageManager.h */,
+				6E013DB71DE53BC5005DCDC7 /* EVMessageProtocol.h */,
+				6E013DB81DE53BC5005DCDC7 /* libEVMessage.a */,
+			);
+			path = Message;
+			sourceTree = "<group>";
+		};
+		6E013DB91DE53BC5005DCDC7 /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				6E013DBA1DE53BC5005DCDC7 /* EVPlayer.h */,
+				6E013DBB1DE53BC5005DCDC7 /* EVPlayerConfig.h */,
+				6E013DBC1DE53BC5005DCDC7 /* libEVPlayer.a */,
+			);
+			path = Player;
+			sourceTree = "<group>";
+		};
+		6E013DBD1DE53BC5005DCDC7 /* Streamer */ = {
+			isa = PBXGroup;
+			children = (
+				6E013DBE1DE53BC5005DCDC7 /* AgoraRtcEngineKit.framework */,
+				6E013DBF1DE53BC5005DCDC7 /* EVAudioPlayer.h */,
+				6E013DC01DE53BC5005DCDC7 /* EVStreamer.h */,
+				6E013DC11DE53BC5005DCDC7 /* EVStreamerConfig.h */,
+				6E013DC21DE53BC5005DCDC7 /* libEVStreamer.a */,
+				6E013DC31DE53BC5005DCDC7 /* videoprp.framework */,
+			);
+			path = Streamer;
+			sourceTree = "<group>";
+		};
 		6E31E05F1DD564B5009E137A = {
 			isa = PBXGroup;
 			children = (
@@ -459,6 +595,22 @@
 		6E31E09E1DD5A921009E137A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6E013DE91DE53D40005DCDC7 /* Security.framework */,
+				6E013DE71DE53D35005DCDC7 /* Foundation.framework */,
+				6E013DE51DE53D2A005DCDC7 /* UIKit.framework */,
+				6E013DE31DE53D1D005DCDC7 /* libicucore.tbd */,
+				6E013DE11DE53D0F005DCDC7 /* libz.tbd */,
+				6E013DDF1DE53D01005DCDC7 /* CoreMedia.framework */,
+				6E013DDD1DE53CE8005DCDC7 /* OpenGLES.framework */,
+				6E013DDB1DE53CC3005DCDC7 /* AVFoundation.framework */,
+				6E013DD91DE53CB9005DCDC7 /* VideoToolbox.framework */,
+				6E013DD71DE53CB0005DCDC7 /* AudioToolbox.framework */,
+				6E013DD51DE53CA1005DCDC7 /* CoreGraphics.framework */,
+				6E013DD31DE53C95005DCDC7 /* CoreFoundation.framework */,
+				6E013DD11DE53C87005DCDC7 /* CoreMotion.framework */,
+				6E013DCF1DE53C7D005DCDC7 /* libstdc++.6.tbd */,
+				6E013DCD1DE53C6F005DCDC7 /* libstdc++.tbd */,
+				6E013DCB1DE53C5C005DCDC7 /* libstdc++.6.0.9.tbd */,
 				B58005E51DD9923700295C73 /* CFNetwork.framework */,
 				6E9245D51DD9904A007A6E6C /* CoreTelephony.framework */,
 				6E9245D31DD98F43007A6E6C /* libc++.tbd */,
@@ -495,6 +647,7 @@
 		6E31E0BE1DD5B07E009E137A /* Libs */ = {
 			isa = PBXGroup;
 			children = (
+				6E013DAE1DE53B88005DCDC7 /* EVSDK  */,
 				6E31E0BF1DD5B07E009E137A /* 3rdLibHeader.h */,
 				6E31E0C01DD5B07E009E137A /* QQSDK */,
 				6E31E0C21DD5B07E009E137A /* WeChatSDK */,
@@ -1174,6 +1327,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Libs/QQSDK",
+					"$(PROJECT_DIR)/Libs/EVSDK/Streamer",
 				);
 				INFOPLIST_FILE = HooViewApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
@@ -1182,6 +1336,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Libs/WeChatSDK",
 					"$(PROJECT_DIR)/Libs/WeiBoSDK",
+					"$(PROJECT_DIR)/Libs/EVSDK/Base",
+					"$(PROJECT_DIR)/Libs/EVSDK/Message",
+					"$(PROJECT_DIR)/Libs/EVSDK/Player",
+					"$(PROJECT_DIR)/Libs/EVSDK/Streamer",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -1199,6 +1357,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Libs/QQSDK",
+					"$(PROJECT_DIR)/Libs/EVSDK/Streamer",
 				);
 				INFOPLIST_FILE = HooViewApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
@@ -1207,6 +1366,10 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Libs/WeChatSDK",
 					"$(PROJECT_DIR)/Libs/WeiBoSDK",
+					"$(PROJECT_DIR)/Libs/EVSDK/Base",
+					"$(PROJECT_DIR)/Libs/EVSDK/Message",
+					"$(PROJECT_DIR)/Libs/EVSDK/Player",
+					"$(PROJECT_DIR)/Libs/EVSDK/Streamer",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hooview.app;
 				PRODUCT_NAME = "$(TARGET_NAME)";
